@@ -12,24 +12,7 @@ A repository to accumulate a random number of git commits daily.
 </details>
 
 <details>
-    <summary>Pushing <b>18</b> commits on <b>Mon 14 Sep 2020</b><summary>
+    <summary>Pushing <b>13</b> commits on <b>Mon 14 Sep 2020</b></summary>
 
-    01:04:27 PM: First commit for the day
-    01:04:27 PM: Second commit for the day
-    01:04:27 PM: Third commit for the day
-    01:04:27 PM: Fourth commit for the day
-    01:04:27 PM: Fifth commit for the day
-    01:04:27 PM: Sixth commit for the day
-    01:04:27 PM: Seventh commit for the day
-    01:04:27 PM: Eighth commit for the day
-    01:04:27 PM: Ninth commit for the day
-    01:04:27 PM: Tenth commit for the day
-    01:04:27 PM: Eleventh commit for the day
-    01:04:27 PM: Twelveth commit for the day
-    01:04:27 PM: Thirteenth commit for the day
-    01:04:27 PM: Fourteenth commit for the day
-    01:04:27 PM: Fifteenth commit for the day
-    01:04:27 PM: Sixteenth commit for the day
-    01:04:27 PM: Seventeenth commit for the day
-    01:04:27 PM: Eighteenth commit for the day
+    01:11:59 PM: First commit for the day
 </details>
