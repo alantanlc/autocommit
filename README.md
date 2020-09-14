@@ -12,7 +12,7 @@ Clone this repository on your local machine and add the following line to cronta
 Notes:
 - Open and edit crontab file using the bash command `crontab -e`
 - Replace `/home/ubuntu/autocommit/autocommit.sh` with absolute path to the location of `autocommit.sh` residing on your machine
-- `0 12 * * *` configures cron to execute the given command at 12:00 PM everyday.
+- `0 12 * * *` schedules cron to execute the bash script at 12:00 PM everyday. Alternatively, you can set your own preferred schedule.
 - Be sure to leave an empty line at the end of the crontab file for cron to work properly
 
 ## Dependencies
