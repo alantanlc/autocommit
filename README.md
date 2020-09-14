@@ -17,9 +17,13 @@ Notes:
 
 ## Dependencies
 
-- bash 4 - Bourne again shell
-- sed - Stream editor
-- git - Version control system
+- [bash 4](https://www.gnu.org/software/bash/) - Bourne again shell
+- [sed](https://www.gnu.org/software/sed/manual/sed.html) - Stream editor
+- [git](https://www.git-scm.com) - Version control system
+
+## Important
+
+You may choose to delete all existing commits in the `Commit log` section. __However, do not delete the `Commit log` h2 header.__
 
 ## Commit log
 
