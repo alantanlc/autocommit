@@ -19,7 +19,7 @@ declare -A ordinals=( [1]="First" [2]="Second" [3]="Third" [4]="Fourth" [5]="Fif
 
 # Create commit template with first commit
 output="\n<details>"
-output+="\n    <summary>Pushing <b>${rnumber}</b> commits on <b>$(date '+%a %d %b %Y')</b><summary>"
+output+="\n    <summary>Pushing <b>${rnumber}</b> commits on <b>$(date '+%a %d %b %Y')</b></summary>"
 output+="\n\n    $(date '+%r'): First commit for the day"
 output+="\n</details>"
 echo -e "${output}" >> README.md
