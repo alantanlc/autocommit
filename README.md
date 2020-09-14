@@ -2,6 +2,8 @@
 
 Bash script to automatically push a random number of commits to this GitHub repository everyday.
 
+A new collapsable section (hereby known as the `daily commit template`) is appended to the top of the [`Commit log`](#commit-log) section each time the [autocommit.sh](./autocommit.sh) bash script is executed.
+
 ## Install
 
 Clone this repository on your local machine and add the following line to crontab.
@@ -17,15 +19,16 @@ Notes:
 
 ## Dependencies
 
-- [bash 4](https://www.gnu.org/software/bash/) - Bourne again shell
+- [bash 4](https://www.gnu.org/software/bash/) - Bourne again shell (Version 4 is required as the bash script uses `associative array`)
 - [sed](https://www.gnu.org/software/sed/manual/sed.html) - Stream editor
-- [git](https://www.git-scm.com) - Version control system
+- [cron](https://en.wikipedia.org/wiki/Cron) - Job scheduler
+- [git](https://www.git-scm.com) - Version control system (git username, email, and remote origin url must be configured to work)
 
 ## Important
 
 You may choose to delete all existing commits in the [`Commit log`](#commit-log) section.
 
-__Do not delete the [`Commit log`](#commit-log) h2 header.__
+__However, do not delete the [`Commit log`](#commit-log) h2 header.__ (i.e. The line starting with `##`)
 
 ## Commit log
 
