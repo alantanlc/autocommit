@@ -2,17 +2,18 @@
 
 Bash script to automatically push a random number of commits to GitHub everyday.
 
-## Installation
+## Install
 
-Clone this repository on your local machine and add the following line to crontab:
+Clone this repository on your local machine and add the following line to crontab
 ```
 0 12 * * * bash /home/ubuntu/autocommit/autocommit.sh
 ```
-__NB__: Open and edit crontab file using the bash command `crontab -e`
 
-__NB__: Replace `/home/ubuntu/autocommit/autocommit.sh` with the absolute path to the location of `autocommit.sh` residing on your machine
-
-__NB__: Be sure to leave an empty line at the end of the crontab file
+Notes:
+- Open and edit crontab file using the bash command `crontab -e`
+- Replace `/home/ubuntu/autocommit/autocommit.sh` with absolute path to the location of `autocommit.sh` residing on your machine
+- `0 12 * * *` configures cron to execute the given command at 12:00 PM everyday.
+- Be sure to leave an empty line at the end of the crontab file for cron to work properly
 
 ## Commit log
 
