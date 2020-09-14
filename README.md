@@ -28,16 +28,3 @@ You may choose to delete all existing commits in the [`Commit log`](#commit-log)
 __Do not delete the [`Commit log`](#commit-log) h2 header.__
 
 ## Commit log
-
-<details open>
-    <summary>Pushing <b>8</b> commits on <b>Mon 14 Sep 2020</b></summary>
-
-    06:52:32 PM: First commit for the day
-    06:52:32 PM: Second commit for the day
-    06:52:32 PM: Third commit for the day
-    06:52:32 PM: Fourth commit for the day
-    06:52:32 PM: Fifth commit for the day
-    06:52:32 PM: Sixth commit for the day
-    06:52:32 PM: Seventh commit for the day
-    06:52:32 PM: Eighth commit for the day
-</details>
