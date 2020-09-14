@@ -23,7 +23,7 @@ Notes:
 
 ## Dependencies
 
-- [bash 4](https://www.gnu.org/software/bash/) - Bourne again shell (Version 4 is required as the bash script uses `associative array`)
+- [bash 4](https://www.gnu.org/software/bash/) - Bourne again shell (version 4 is required as the bash script uses _associative array_)
 - [sed](https://www.gnu.org/software/sed/manual/sed.html) - Stream editor
 - [cron](https://en.wikipedia.org/wiki/Cron) - Job scheduler
 - [git](https://www.git-scm.com) - Version control system (git username, email, and remote origin url must be configured to work)
