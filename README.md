@@ -2,7 +2,7 @@
 
 A repository to accumulate a random number of git commits daily.
 
-### Crontab
+## Crontab
 
 Add the following line to crontab to run `autocommit.sh` at 12:00 PM daily. Replace `/home/ubuntu/autocommit/autocommit.sh` with the absolute path to the location of `autocommit.sh` residing on your machine.
 ```
@@ -10,7 +10,7 @@ Add the following line to crontab to run `autocommit.sh` at 12:00 PM daily. Repl
 ```
 __NB__: Be sure to leave an empty line at the end of the file.
 
-### Commit log
+## Commit log
 
 <details>
     <summary>Pushing <b>13</b> commits on <b>Mon 14 Sep 2020</b></summary>
