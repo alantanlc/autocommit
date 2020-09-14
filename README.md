@@ -15,6 +15,12 @@ Notes:
 - `0 12 * * *` configures cron to execute the given command at 12:00 PM everyday.
 - Be sure to leave an empty line at the end of the crontab file for cron to work properly
 
+## Dependencies
+
+- bash 4 - Bourne again shell
+- sed - Stream editor
+- git - Version control system
+
 ## Commit log
 
 <details open>
