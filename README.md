@@ -23,9 +23,9 @@ Notes:
 
 ## Important
 
-You may choose to delete all existing commits in the [Commit log](#commit-log) section.
+You may choose to delete all existing commits in the [`Commit log`](#commit-log) section.
 
-__Do not delete the `Commit log` h2 header.__
+__Do not delete the [`Commit log`](#commit-log) h2 header.__
 
 ## Commit log
 
