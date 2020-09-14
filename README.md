@@ -17,7 +17,7 @@ Notes:
 
 ## Commit log
 
-<details>
+<details open>
     <summary>Pushing <b>13</b> commits on <b>Mon 14 Sep 2020</b></summary>
 
     01:11:59 PM: First commit for the day
