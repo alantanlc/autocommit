@@ -9,7 +9,9 @@ Clone this repository on your local machine and add the following line to cronta
 0 12 * * * bash /home/ubuntu/autocommit/autocommit.sh
 ```
 __NB__: Open and edit crontab file using the bash command `crontab -e`
+
 __NB__: Replace `/home/ubuntu/autocommit/autocommit.sh` with the absolute path to the location of `autocommit.sh` residing on your machine
+
 __NB__: Be sure to leave an empty line at the end of the crontab file
 
 ## Commit log
