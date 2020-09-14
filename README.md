@@ -6,7 +6,7 @@ Bash script to automatically push a random number of commits to this GitHub repo
 
 The following happens each time [autocommit.sh](./autocommit.sh) is executed:
 1. The first opened [collapsable](https://gist.github.com/pierrejoubert73/902cc94d79424356a8d20be2b382e1ab) in [Commit log](#commit-log) will be closed.
-1. A new opened collapsable with a random number of commits will be appended to the top of [`Commit log`](#commit-log).
+1. A new opened collapsable with a random number of commits will be appended to the top of [Commit log](#commit-log).
 
 ## Install
 
