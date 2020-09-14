@@ -2,7 +2,11 @@
 
 Bash script to automatically push a random number of commits to this GitHub repository everyday.
 
-A new collapsable section (hereby known as the `daily commit template`) is appended to the top of the [`Commit log`](#commit-log) section each time the [autocommit.sh](./autocommit.sh) bash script is executed.
+## Details
+
+The following happens each time the [autocommit.sh](./autocommit.sh) bash script is executed:
+1. The first opened collapsable in [README.md](./README.md) will be closed.
+1. A new opened collapsable with a random number of commits is appended to the top of the [`Commit log`](#commit-log) section.
 
 ## Install
 
