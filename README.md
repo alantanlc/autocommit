@@ -8,6 +8,7 @@ Add the following line to crontab to run `autocommit.sh` at 12:00 PM daily. Repl
 ```
 0 12 * * * bash /home/ubuntu/autocommit/autocommit.sh
 ```
+__NB__: Open and edit crontab file using `crontab -e`
 __NB__: Be sure to leave an empty line at the end of the file.
 
 ## Commit log
