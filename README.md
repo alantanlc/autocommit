@@ -6,7 +6,7 @@ Bash script to automatically push a random number of commits to this GitHub repo
 
 The following happens each time [autocommit.sh](./autocommit.sh) is executed:
 1. The firsted [collapsable](https://gist.github.com/pierrejoubert73/902cc94d79424356a8d20be2b382e1ab) in [Commit log](#commit-log) will be closed
-1. A new opened collapsable with a random number of commits will be appended to the top of [Commit log](#commit-log)
+1. A newed collapsable with a random number of commits will be appended to the top of [Commit log](#commit-log)
 
 ## Install
 
@@ -37,6 +37,12 @@ __However, do not delete the `Commit log` h2 header.__ (i.e. The line starting w
 ## Commit log
 
 <details open>
+    <summary>Pushing <b>11</b> commits on <b>Tue 15 Sep 2020</b> at <b>12:27:59 PM</b></summary>
+
+    12:27:59 PM: First commit for the day
+</details>
+
+<details>
     <summary>Pushing <b>6</b> commits on <b>Tue 15 Sep 2020</b> at <b>12:00:01 PM</b></summary>
 
     12:00:01 PM: First commit for the day
@@ -47,7 +53,7 @@ __However, do not delete the `Commit log` h2 header.__ (i.e. The line starting w
     12:00:01 PM: Sixth commit for the day
 </details>
 
-<details open>
+<details>
     <summary>Pushing <b>5</b> commits on <b>Mon 14 Sep 2020</b> at <b>07:25:01 PM</b></summary>
 
     07:25:01 PM: First commit for the day
