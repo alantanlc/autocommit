@@ -36,33 +36,6 @@ __However, do not delete the `Commit log` h2 header.__ (i.e. The line starting w
 
 ## Commit log
 
-<details open>
-    <summary>Pushing <b>11</b> commits on <b>Tue 15 Sep 2020</b> at <b>12:27:59 PM</b></summary>
-
-    12:27:59 PM: First commit for the day
-    12:27:59 PM: Second commit for the day
-    12:27:59 PM: Third commit for the day
-    12:27:59 PM: Fourth commit for the day
-    12:27:59 PM: Fifth commit for the day
-    12:27:59 PM: Sixth commit for the day
-    12:27:59 PM: Seventh commit for the day
-    12:27:59 PM: Eighth commit for the day
-    12:27:59 PM: Ninth commit for the day
-    12:27:59 PM: Tenth commit for the day
-    12:27:59 PM: Eleventh commit for the day
-</details>
-
-<details>
-    <summary>Pushing <b>6</b> commits on <b>Tue 15 Sep 2020</b> at <b>12:00:01 PM</b></summary>
-
-    12:00:01 PM: First commit for the day
-    12:00:01 PM: Second commit for the day
-    12:00:01 PM: Third commit for the day
-    12:00:01 PM: Fourth commit for the day
-    12:00:01 PM: Fifth commit for the day
-    12:00:01 PM: Sixth commit for the day
-</details>
-
 <details>
     <summary>Pushing <b>5</b> commits on <b>Mon 14 Sep 2020</b> at <b>07:25:01 PM</b></summary>
 
