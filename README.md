@@ -36,7 +36,7 @@ __However, do not delete the `Commit log` h2 header.__ (i.e. The line starting w
 
 ## Commit log
 
-<details>
+<details open>
     <summary>Pushing <b>5</b> commits on <b>Mon 14 Sep 2020</b> at <b>07:25:01 PM</b></summary>
 
     07:25:01 PM: First commit for the day
