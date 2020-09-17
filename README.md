@@ -10,6 +10,8 @@ The following happens each time [autocommit.sh](./autocommit.sh) is executed:
 
 ## Install
 
+__Linux/MacOS__
+
 Clone this repository on your local machine and add the following line to crontab.
 ```
 0 23 * * * bash /home/ubuntu/autocommit/autocommit.sh
@@ -21,12 +23,16 @@ Notes:
 - `0 23 * * *` schedules cron to execute the bash script at 11:00 PM everyday. Alternatively, you can set your own preferred schedule
 - Be sure to leave an empty line at the end of the crontab file for cron to work properly
 
+__Windows__
+
+Coming soon.
+
 ## Dependencies
 
-- [bash 4](https://www.gnu.org/software/bash/) - Bourne again shell (version 4 is required as the bash script uses _associative array_)
-- [sed](https://www.gnu.org/software/sed/manual/sed.html) - Stream editor
-- [cron](https://en.wikipedia.org/wiki/Cron) - Job scheduler
-- [git](https://www.git-scm.com) - Version control system (git username, email, and remote origin url must be configured to work)
+- [bash 4](https://www.gnu.org/software/bash/) - bourne again shell (version 4 is required as the bash script uses _associative array_)
+- [sed](https://www.gnu.org/software/sed/manual/sed.html) - stream editor
+- [cron](https://en.wikipedia.org/wiki/Cron) - job scheduler
+- [git](https://www.git-scm.com) - version control system (git username, email, and remote origin url must be configured to work)
 
 ## Important
 
