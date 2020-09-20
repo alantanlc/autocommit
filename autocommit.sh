@@ -54,7 +54,7 @@ output="## Commit log"
 output+="\\n"
 output+="\\n<details open>"
 output+="\\n    <summary>Pushing <b>${rnumber}<\/b> commits on <b>$(date '+%a %d %b %Y')<\/b> at <b>$(date '+%r')<\/b><\/summary>"
-output+="\\n\\n    $(date '+%r'): first commit for the day"
+output+="\\n\\n    $(date '+%r'): docs: first commit for the day"
 output+="\\n<\/details>"
 sed -i -z "s/## Commit log/${output}/" "${file}"
 git add ${file}
