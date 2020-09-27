@@ -15,6 +15,9 @@ directory="/home/ubuntu/autocommit"
 cd ${directory}
 echo "Working directory: $(pwd)"
 
+# Perform git pull
+git pull
+
 # Generate a random number between 3 to 12
 rnumber=$((RANDOM%9+3))
 echo "Creating ${rnumber} commits on $(date '+%a %d %b %Y')"
